@@ -1,2 +1,2 @@
 # JAVA - Programación (DAM1V)
-## Pedro Sanchez, dimite
+## Algunos temarios pueden estar incompletos
