@@ -1,0 +1,12 @@
+LucasGutiérrez 7|5|8|6|
+MaríaFernández 9|8|7|
+PabloRamírez 6|7|6|5|
+SofíaTorres 8|9|9|
+DiegoMéndez 5|6|4|7|
+ElenaRoja 7|8|8|
+JavierNavarro 6|5|7|8|
+CarlaOrtega 9|9|10|
+AndrésHerrera 4|7|5|6|
+LucíaCastro 8|6|9|
+
+
