@@ -1,7 +1,7 @@
 # JAVA - Programación (DAM1V)
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="JavaLogo" width="200" height="200">
 
-```
+```java
 package Principal;
 
 import java.util.Scanner;
