@@ -1,3 +1,3 @@
 # JAVA - Programación (DAM1V)
 ## Algunos temarios pueden estar incompletos
-## (Sin terminar)
+### Contenido que hemos ido dando en clase de Programación sobre Java
